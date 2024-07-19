@@ -15,3 +15,8 @@ In the same way you have to create a local variable and initialised it with 20 a
 2.Create a set() and with one argument. And set the value of the created state variable with the value passed as an argument to the set().
 
 3.Then create another function get() which returns the value of the state variable.
+
+## Lab 5 _Require Statement_
+1. Create a checkInput (uint input).
+2. Check whether the input is greater than equal to zero and less than equal to 255. If input is within range then return "Within Range" otherwise throw error "Not Within Range".
+
