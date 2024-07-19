@@ -11,5 +11,7 @@ In the same way you have to create a local variable and initialised it with 20 a
 ## Lab 4 _Arguments In Function_
 
 1.Create a state variable (need not to be public).
+
 2.Create a set() and with one argument. And set the value of the created state variable with the value passed as an argument to the set().
+
 3.Then create another function get() which returns the value of the state variable.
